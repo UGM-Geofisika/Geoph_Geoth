@@ -2,7 +2,8 @@
 
 # Exploration Geophysics for Geothermal
 **Instruktur:** 
- Wiwit Suryanto
+ Wiwit Suryanto [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/maswiet.svg?style=social&label=Follow%20%40maswiet)](https://twitter.com/maswiet)
+
  
 
 ## Syllabus
