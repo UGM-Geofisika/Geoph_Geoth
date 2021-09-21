@@ -1,4 +1,4 @@
-![header_image](https://www.dropbox.com/s/imdah9jpd39i3oi/dp-explogeoth.png?dl=0)
+![header_image](https://www.dropbox.com/home/Gambar?preview=dp-explogeoth.png)
 # Exploration Geophysics for Geothermal
 **Instruktur:** 
  Wiwit Suryanto
