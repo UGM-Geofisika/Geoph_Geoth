@@ -6,5 +6,5 @@
 
 ## Syllabus
 * Metode Magnetik
-* Metode Magnetotelluric
+* [Metode Magnetotelluric](./Metode_MT.ipynb)
 * Metode Microearthquake
