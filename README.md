@@ -2,7 +2,9 @@
 
 # Exploration Geophysics for Geothermal
 **Instruktur:** 
- Wiwit Suryanto
+ [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/maswiet.svg?style=social&label=%20%40maswiet)](https://twitter.com/maswiet)
+
+ 
 
 ## Syllabus
 * Metode Magnetik
